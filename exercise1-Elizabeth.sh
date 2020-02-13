@@ -1,3 +1,1 @@
-total
--rw-rw-r--
-drwxrwxr-x
+      3       3      28
